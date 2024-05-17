@@ -1,4 +1,4 @@
-#  BME280
+#  BME280 Sensor
 Temperatur, Humidity and Pressure Sensor *Bosch* **BME280** used by my ESPs
 
 ### Resources  
