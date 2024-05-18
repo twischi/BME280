@@ -1,23 +1,3 @@
-/*!
- * @file Adafruit_BME280.h
- *
- * Designed specifically to work with the Adafruit BME280 Breakout
- * ----> http://www.adafruit.com/products/2650
- *
- * These sensors use I2C or SPI to communicate, 2 or 4 pins are required
- * to interface.
- *
- * Adafruit invests time and resources providing this open source code,
- * please support Adafruit and open-source hardware by purchasing
- * products from Adafruit!
- *
- * Written by Kevin "KTOWN" Townsend for Adafruit Industries.
- *
- * BSD license, all text here must be included in any redistribution.
- * See the LICENSE file for details.
- *
- */
-
 #ifndef __BME280_H__
 #define __BME280_H__
 
