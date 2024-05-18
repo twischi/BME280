@@ -1,0 +1,18 @@
+{
+    "default": true,
+    "MD013": { "line_length": 100 },
+    "MD033": false,  // Allow inline HTML
+    "MD041": false,  // Allow first line header to be optional
+    "MD026": { "punctuation": ".,;:!" },  // GitHub-flavored markdown
+    "MD007": { "indent": 2 },  // Set the unordered list indentation to 2 spaces
+    "MD029": { "style": "ordered" },  // Ordered list item prefix
+    "MD024": { "allow_different_nesting": true },  // Allow multiple headers with the same content
+    "MD018": true,  // Space after hash on atx style heading
+    "MD019": true,  // No multiple spaces after hash on atx style heading
+    "MD022": true,  // Headings should be surrounded by blank lines
+    "MD025": true,  // Multiple top level headings in the same document
+    "MD030": true,  // Spaces after list markers
+    "MD032": true,  // Lists should be surrounded by blank lines
+    "MD036": true   // Emphasis used instead of a header
+}
+  
