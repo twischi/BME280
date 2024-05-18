@@ -4,5 +4,13 @@ Temperatur, Humidity and Pressure Sensor *Bosch* **BME280** used by my ESPs
 
 ## Resources
 
-* [Bosch Sensortech BME280](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280:target="_blank")
+### Info about the Sensor
+
+* [Bosch Sensortech BME280](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280)
 * [Datasheet BME280](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf)
+
+### Code Libraries
+
+* [Bosch Sensortech BME280](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280)
+* [Arduino Bme280](https://github.com/malokhvii-eduard/arduino-bme280)
+* [Arduino Adafruit BME280 Library](https://github.com/adafruit/Adafruit_BME280_Library)
